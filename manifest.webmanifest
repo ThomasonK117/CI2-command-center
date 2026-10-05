@@ -1,0 +1,18 @@
+{
+  "name": "CI\u00b2 Command Center",
+  "short_name": "CI\u00b2",
+  "description": "Offline-first continuous improvement project workspace.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
